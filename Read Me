@@ -1,0 +1,25 @@
+I have Analyzed the Titanic dataset in Python, in order to start with Machine Leaning algorithms.
+I have tried different features from Python and implemented in the dataset
+This repository has Python code along with, also please find some preliminary read me for Titanic Data Set.
+
+Exploratory Data Analysis(EDA):
+1)Analysis of the features.
+2)Finding any relations or trends considering multiple features.
+
+Feature Engineering and Data Cleaning:
+1)Adding any few features.
+2)Removing redundant features.
+3)Converting features into suitable form for modeling.
+
+
+Types of Features
+Categorical Features:
+A categorical variable is one that has two or more categories and each value in that feature can be categorized by them. For example, gender is a categorical variable having two categories (male and female). Now we cannot sort or give any ordering to such variables. They are also known as Nominal Variables.
+Categorical Features in the dataset: Sex, Embarked.
+Ordinal Features:
+An ordinal variable is similar to categorical values, but the difference between them is that we can have relative ordering or sorting between the values. For eg: If we have a feature like Height with values Tall, Medium, Short, then Height is an ordinal variable. Here we can have a relative sort in the variable.
+Ordinal Features in the dataset: PClass
+Continuous Feature:
+A feature is said to be continuous if it can take values between any two points or between the minimum or maximum values in the features column.
+Continuous Features in the dataset: Age
+
